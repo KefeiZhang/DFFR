@@ -83,6 +83,10 @@ The trained weights for our DFFR model can be downloaded here:
 
 ![pipeline](./img/Main%20results.png)
 
+## Code Access
+**Shared file:** `DFFR.zip`  
+Link: [Baidu Drive Download](https://pan.baidu.com/s/1HtPOris8cvfO0vuYiip1vQ)  
+Extraction code: `xctc`
 
 
 ## Acknowledgement
