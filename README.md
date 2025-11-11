@@ -81,7 +81,7 @@ The trained weights for our DFFR model can be downloaded here:
 
 ## Results
 
-![pipeline](./img/Main results.png)
+![pipeline](./img/Main%20results.png)
 
 
 
