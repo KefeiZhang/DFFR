@@ -6,10 +6,10 @@ Authors
 
 ## Detection Results Demo
 Here is a demonstration of our DFFR model performing real underwater object detection:
+**Video demonstration:**  
+Link: [Baidu Drive Download](https://pan.baidu.com/s/1G1JkQDLwrHmQ2SlqFAGWuQ)  
+Extraction code: `23uq`
 
-<p align="center">
-  <video src="./detection_results.mp4" controls autoplay muted loop width="80%"></video>
-</p>
 
 
 
